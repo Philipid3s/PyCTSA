@@ -1,0 +1,3 @@
+wordnet
+reuters
+pros_cons
